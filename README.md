@@ -1,4 +1,4 @@
-# Ansible
+# Ansible AWS Infrastructure & Code Deployment automation
 
 Scripts in this repo perform the following:
 1. Create a "nodejs" role for installing nodejs and npm on an AWS t2.micro ec2 instance.
